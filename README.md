@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirumal024&label=Profile%20views&color=0e75b6&style=flat" alt="tirumal024" /> </p>
 <img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvVs-QDzBEUY-6mbj8YoPQQh1EeZ2kk6jCiRV-POw5FQ&usqp=CAU&ec=48600112">
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
